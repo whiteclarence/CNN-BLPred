@@ -1,0 +1,2 @@
+model_checkpoint_path: "/run/media/ramon39170/My_Passport_Ultra/Research/BL/NEW_DATASET/DNN_FS_PRED/models/CNN/CKSAAP/W_FS_W_SMOTE/BL_Class_D/BL_Class_D_model.tfl"
+all_model_checkpoint_paths: "/run/media/ramon39170/My_Passport_Ultra/Research/BL/NEW_DATASET/DNN_FS_PRED/models/CNN/CKSAAP/W_FS_W_SMOTE/BL_Class_D/BL_Class_D_model.tfl"
